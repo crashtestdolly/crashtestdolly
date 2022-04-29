@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @crashtestdolly Jen Corbett
-- 👀 I’m interested in software development and design, not to mention getting the hang of learning to code full time! 
-- 🌱 I’m currently learning client side development at Developers Institute in New Zealand
-- 💞️ I’m looking to collaborate on learning Git and connect with other student developers
+- 👋 Hi, I’m Jen Corbett and my handle is @crashtestdolly 
+- 🌱 I’m currently studuing at Developers Institute in New Zealand
+- 💞️ I’m looking to collaborate on learning Git and connect with other learners
 - 📫 You can reach me by email msjencorbett@gmail.com 
 
 <!---
